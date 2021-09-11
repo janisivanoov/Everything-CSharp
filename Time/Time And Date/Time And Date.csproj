@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Time_And_Date</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Катя\Desktop\Date and Time%2810 programs inside%29.cs" Link="Date and Time%2810 programs inside%29.cs" />
+  </ItemGroup>
+
+</Project>
