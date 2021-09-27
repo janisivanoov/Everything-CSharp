@@ -1,0 +1,13 @@
+C:\Users\Катя\source\repos\Events and Event Driven Programming\Events and Event Driven Programming\bin\Debug\netcoreapp3.1\Events and Event Driven Programming.exe
+C:\Users\Катя\source\repos\Events and Event Driven Programming\Events and Event Driven Programming\bin\Debug\netcoreapp3.1\Events and Event Driven Programming.deps.json
+C:\Users\Катя\source\repos\Events and Event Driven Programming\Events and Event Driven Programming\bin\Debug\netcoreapp3.1\Events and Event Driven Programming.runtimeconfig.json
+C:\Users\Катя\source\repos\Events and Event Driven Programming\Events and Event Driven Programming\bin\Debug\netcoreapp3.1\Events and Event Driven Programming.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\Events and Event Driven Programming\Events and Event Driven Programming\bin\Debug\netcoreapp3.1\Events and Event Driven Programming.dll
+C:\Users\Катя\source\repos\Events and Event Driven Programming\Events and Event Driven Programming\bin\Debug\netcoreapp3.1\Events and Event Driven Programming.pdb
+C:\Users\Катя\source\repos\Events and Event Driven Programming\Events and Event Driven Programming\obj\Debug\netcoreapp3.1\Events and Event Driven Programming.csprojAssemblyReference.cache
+C:\Users\Катя\source\repos\Events and Event Driven Programming\Events and Event Driven Programming\obj\Debug\netcoreapp3.1\Events and Event Driven Programming.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\Events and Event Driven Programming\Events and Event Driven Programming\obj\Debug\netcoreapp3.1\Events and Event Driven Programming.AssemblyInfo.cs
+C:\Users\Катя\source\repos\Events and Event Driven Programming\Events and Event Driven Programming\obj\Debug\netcoreapp3.1\Events and Event Driven Programming.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\Events and Event Driven Programming\Events and Event Driven Programming\obj\Debug\netcoreapp3.1\Events and Event Driven Programming.dll
+C:\Users\Катя\source\repos\Events and Event Driven Programming\Events and Event Driven Programming\obj\Debug\netcoreapp3.1\Events and Event Driven Programming.pdb
+C:\Users\Катя\source\repos\Events and Event Driven Programming\Events and Event Driven Programming\obj\Debug\netcoreapp3.1\Events and Event Driven Programming.genruntimeconfig.cache

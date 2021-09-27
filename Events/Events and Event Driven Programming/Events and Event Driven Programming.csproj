@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Events_and_Event_Driven_Programming</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Катя\Desktop\Events and Event Driven Programming.cs" Link="Events and Event Driven Programming.cs" />
+  </ItemGroup>
+
+</Project>
