@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>For__do_while__if__else__foreach</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Катя\Desktop\For, do while, foreach, if else, void, var.cs" Link="For, do while, foreach, if else, void, var.cs" />
+  </ItemGroup>
+
+</Project>
