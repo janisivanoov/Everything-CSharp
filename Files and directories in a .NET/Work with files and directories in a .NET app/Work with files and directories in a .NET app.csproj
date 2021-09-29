@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Work_with_files_and_directories_in_a_.NET_app</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Катя\Desktop\LGTM to post\Work with files and directories in a .NET app.cs" Link="Work with files and directories in a .NET app.cs" />
+  </ItemGroup>
+
+</Project>
