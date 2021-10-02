@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sByBJYu5Aao1w0kcf74MtP3dtMUCj9nvs+Xxu9YjLspeyTKN61rhjkEc7PgcUUIPQa6FHh5ngsLrKl6KCUwFWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Катя\\source\\repos\\JSON again\\JSON again\\JSON again.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Катя\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

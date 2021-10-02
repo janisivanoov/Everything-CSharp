@@ -1,0 +1,4 @@
+C:\Users\Катя\source\repos\JSON again\JSON again\bin\Debug\netcoreapp3.1\JSON again.exe
+C:\Users\Катя\source\repos\JSON again\JSON again\obj\Debug\netcoreapp3.1\JSON again.csprojAssemblyReference.cache
+C:\Users\Катя\source\repos\JSON again\JSON again\obj\Debug\netcoreapp3.1\JSON again.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\JSON again\JSON again\obj\Debug\netcoreapp3.1\JSON again.AssemblyInfo.cs
