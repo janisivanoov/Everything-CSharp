@@ -1,0 +1,2 @@
+﻿  SQL.cpp
+C:\Users\Катя\source\repos\SQL\SQL\SQL.cpp(2,10): fatal error C1083: Не удается открыть файл включение: sqlite3.h: No such file or directory,
