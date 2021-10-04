@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Interface__virtual_void__class__void</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Катя\Desktop\LGTM to post\Interface, virtual void, class, void.cs" Link="Interface, virtual void, class, void.cs" />
+  </ItemGroup>
+
+</Project>
