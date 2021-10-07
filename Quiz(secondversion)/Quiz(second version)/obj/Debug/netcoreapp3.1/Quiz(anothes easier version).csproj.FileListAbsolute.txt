@@ -1,0 +1,13 @@
+C:\Users\Катя\source\repos\Quiz(anothes easier version)\Quiz(anothes easier version)\bin\Debug\netcoreapp3.1\Quiz(anothes easier version).exe
+C:\Users\Катя\source\repos\Quiz(anothes easier version)\Quiz(anothes easier version)\bin\Debug\netcoreapp3.1\Quiz(anothes easier version).deps.json
+C:\Users\Катя\source\repos\Quiz(anothes easier version)\Quiz(anothes easier version)\bin\Debug\netcoreapp3.1\Quiz(anothes easier version).runtimeconfig.json
+C:\Users\Катя\source\repos\Quiz(anothes easier version)\Quiz(anothes easier version)\bin\Debug\netcoreapp3.1\Quiz(anothes easier version).runtimeconfig.dev.json
+C:\Users\Катя\source\repos\Quiz(anothes easier version)\Quiz(anothes easier version)\bin\Debug\netcoreapp3.1\Quiz(anothes easier version).dll
+C:\Users\Катя\source\repos\Quiz(anothes easier version)\Quiz(anothes easier version)\bin\Debug\netcoreapp3.1\Quiz(anothes easier version).pdb
+C:\Users\Катя\source\repos\Quiz(anothes easier version)\Quiz(anothes easier version)\obj\Debug\netcoreapp3.1\Quiz(anothes easier version).csprojAssemblyReference.cache
+C:\Users\Катя\source\repos\Quiz(anothes easier version)\Quiz(anothes easier version)\obj\Debug\netcoreapp3.1\Quiz(anothes easier version).AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\Quiz(anothes easier version)\Quiz(anothes easier version)\obj\Debug\netcoreapp3.1\Quiz(anothes easier version).AssemblyInfo.cs
+C:\Users\Катя\source\repos\Quiz(anothes easier version)\Quiz(anothes easier version)\obj\Debug\netcoreapp3.1\Quiz(anothes easier version).csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\Quiz(anothes easier version)\Quiz(anothes easier version)\obj\Debug\netcoreapp3.1\Quiz(anothes easier version).dll
+C:\Users\Катя\source\repos\Quiz(anothes easier version)\Quiz(anothes easier version)\obj\Debug\netcoreapp3.1\Quiz(anothes easier version).pdb
+C:\Users\Катя\source\repos\Quiz(anothes easier version)\Quiz(anothes easier version)\obj\Debug\netcoreapp3.1\Quiz(anothes easier version).genruntimeconfig.cache
