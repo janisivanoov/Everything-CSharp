@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nO6BIJEVXDEIoGDDYQu7SvBZzcyFMEzMc2hl68oEgwJdkwnpcD+BLafKFHdeebVXDfSul6nmGQVTEsTbHI9Zcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Катя\\source\\repos\\Bad Solution with JSON\\Bad Solution with JSON\\Bad Solution with JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Катя\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

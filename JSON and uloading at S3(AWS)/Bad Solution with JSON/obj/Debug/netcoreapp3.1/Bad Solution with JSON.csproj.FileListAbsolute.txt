@@ -1,0 +1,4 @@
+C:\Users\Катя\source\repos\Bad Solution with JSON\Bad Solution with JSON\bin\Debug\netcoreapp3.1\Bad Solution with JSON.exe
+C:\Users\Катя\source\repos\Bad Solution with JSON\Bad Solution with JSON\obj\Debug\netcoreapp3.1\Bad Solution with JSON.csprojAssemblyReference.cache
+C:\Users\Катя\source\repos\Bad Solution with JSON\Bad Solution with JSON\obj\Debug\netcoreapp3.1\Bad Solution with JSON.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\Bad Solution with JSON\Bad Solution with JSON\obj\Debug\netcoreapp3.1\Bad Solution with JSON.AssemblyInfo.cs
