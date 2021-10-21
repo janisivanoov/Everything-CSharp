@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Var__Type__typeof</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Катя\Desktop\LGTM to post\Var,Type,Typeof.cs" Link="Var,Type,Typeof.cs" />
+  </ItemGroup>
+
+</Project>
